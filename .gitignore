@@ -1,0 +1,12 @@
+# General:
+.idea/
+__pycache__/
+
+#Testing stuff
+/pacman_game/Assets/mazes/generation/
+/pacman_game/Assets/mazes/test_maze.txt
+
+# Mac stuff:
+.DS_Store
+.AppleDouble
+.LSOverride
